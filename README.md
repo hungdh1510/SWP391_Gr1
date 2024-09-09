@@ -4,7 +4,7 @@ Lần đầu lấy project:
 Bước 1 ae tải Git về:
 
 vào folder mà ae muốn lưu chuột phải git bash here
-gõ câu lệnh git clone https://github.com/Nomap9/Mock_Project_03.git (tên tạo folder)
+gõ câu lệnh git clone https://github.com/hungdh1510/SWP391_Gr1.git (tên tạo folder)
 Bước 2 mở project tại nhánh của mình và liên kết với nhánh đã có trên Git (nhánh của ae mình đã tạo sẵn để tên ae): Vidu tôi clone project về rồi làm như sau:
 
 git checkout -b Minh (tao và chuyển nhánh trên máy)
